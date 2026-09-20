@@ -16,7 +16,7 @@
     "storage"
   ],
   "host_permissions": [
-    "http://localhost:3000/*"
+    "https://api.goo.uy/*"
   ],
   "action": {
     "default_icon": {
